@@ -4,6 +4,6 @@ In Robot Module 3, we try to extend the ideas from Robot Module 2 to make a syst
 
 Experiment Normal: [video](https://www.youtube.com/watch?v=UPLRVdJAmHM&feature=youtu.be) 
 
-Experiment Surprise:[video](https://www.youtube.com/watch?v=mvlYu6NRkuA&feature=youtu.be)
+Experiment Surprise: [video](https://www.youtube.com/watch?v=mvlYu6NRkuA&feature=youtu.be)
 
-Pavlov Experiment:[video](https://www.youtube.com/watch?v=gAbbTlxzPUE&feature=youtu.be)
+Pavlov Experiment: [video](https://www.youtube.com/watch?v=gAbbTlxzPUE&feature=youtu.be)
